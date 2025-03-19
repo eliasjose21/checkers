@@ -1,2 +1,2 @@
 # checkers
-Checker game using Java
+Checkers game using Java, with a playable graphic visual 
